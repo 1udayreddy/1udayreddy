@@ -1,9 +1,9 @@
 
 
 
-                    ## 🚀 About Me
-I'm a frontend developer...
-<h1 align="left">   Hello World!, I'm <a href="https://www.linkedin.com/in/udayreddy70" target="_blank"> UDAY REDDY 👩‍💻 </a></h1>
+                  
+
+<h1 align="center">   Hello World!, I'm <a href="https://www.linkedin.com/in/udayreddy70" target="_blank"> UDAY REDDY 👩‍💻 </a></h1>
             
 
  I'm a passionate front-end developer, I have A good knowledge of front-end technologes and currently I'm learning react.
