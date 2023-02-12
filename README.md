@@ -8,8 +8,8 @@
 
  I'm a passionate front-end developer, I have A good knowledge of front-end technologes and currently I'm learning react.
 
+<img align="center" alt="GIF" src="![uday](https://user-images.githubusercontent.com/115851621/218296638-2d28c9fc-db01-4e09-aaac-6c15cceb7c45.gif) " width="200" height="200" />
 
-![uday](https://user-images.githubusercontent.com/115851621/218296638-2d28c9fc-db01-4e09-aaac-6c15cceb7c45.gif) 
 
 
 🌱 I’m currently learning React JS
