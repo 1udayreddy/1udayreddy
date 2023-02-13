@@ -14,7 +14,9 @@
 
 
 
-💬 Ask me about Web-Development, Front-End
+💬 Ask me about Web-Development, Front-End 
+👨‍💻. lets learn and win the race of development 
+🤝 Looking for collaboration 
 
 <!-- 👨‍💻 Check out my personal portfolio : Portfolio -->
 
