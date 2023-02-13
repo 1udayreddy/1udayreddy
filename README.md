@@ -6,7 +6,7 @@
 <h1 align="center">   Hello World!, I'm <a href="https://www.linkedin.com/in/udayreddy70" target="_blank"> UDAY REDDY 👩‍💻 </a></h1>
             
 
- I'm a passionate front-end developer, I have A good knowledge of front-end technologes and currently I'm learning react.
+ A self-motivated, self-taught and an inspired , who is looking for opportunities  towards areas of " "WEB DEVELOPMENT". I have A good knowledge of front-end technologes and currently I'm learning react.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/115851621/218296638-2d28c9fc-db01-4e09-aaac-6c15cceb7c45.gif " width="400" height="400" />
 
