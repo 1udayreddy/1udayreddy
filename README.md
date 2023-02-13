@@ -33,5 +33,6 @@
   <a href="https://instagram.com/1udayreddy"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
   ✅ MY WORK STACK
-   https://camo.githubusercontent.com/c1983419b80b23030a103dccfdd8d48ce5ca1aef1b07a7d8fcac7fa368833408/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c736173732c74732c7461696c77696e642c6a732c72656163742c6769742c6769746875622c7673636f6465
+   <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+
 
