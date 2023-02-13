@@ -12,7 +12,7 @@
 
 
 
-🌱 I’m currently learning React JS
+
 
 💬 Ask me about Web-Development, Front-End
 
