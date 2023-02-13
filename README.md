@@ -15,7 +15,7 @@
 
 
 💬 Ask me about Web-Development, Front-End <br>
-👨‍💻. lets learn and win the race of development 
+👨‍💻. lets learn and win the race of development <br>
 🤝 Looking for collaboration 
 
 <!-- 👨‍💻 Check out my personal portfolio : Portfolio -->
