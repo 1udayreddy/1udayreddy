@@ -32,7 +32,7 @@
   <a href="mailto:udayreddy780@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/1udayreddy"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-  ✅ MY WORK STACK
+  <h3>✅ MY WORK STACK</h3><br>
    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 
 
